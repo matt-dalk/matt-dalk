@@ -5,4 +5,4 @@ using data to find out *why* machines fail.
 - 🔧 Background in hands-on troubleshooting (ride maintenance, equipment repair, PC builds)
 - 📊 Currently building: a hockey expected-goals (xG) model with logistic regression
 - 🧠 Learning: Python, pandas, scikit-learn
-- 📫 mzd6051@psu.edu · [LinkedIn](www.linkedin.com/in/matt-dalkiewicz-2b42052a9)
+- 📫 mzd6051@psu.edu · [LinkedIn](https://www.linkedin.com/in/matt-dalkiewicz-2b42052a9)
